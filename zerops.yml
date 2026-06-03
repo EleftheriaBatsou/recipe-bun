@@ -1,5 +1,5 @@
 zerops:
-  - setup: prod
+  - setup: app
     build:
       base: bun@1.1
       buildCommands:
